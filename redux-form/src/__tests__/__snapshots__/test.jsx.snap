@@ -1,0 +1,672 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Store 1`] = `
+<div
+  class="col-5"
+>
+  <form
+    class="form-inline"
+  >
+    <div
+      class="form-group mx-3"
+    >
+      <input
+        name="text"
+        required=""
+        type="text"
+        value=""
+      />
+    </div>
+    <button
+      class="btn btn-primary btn-sm"
+      type="submit"
+    >
+      Add
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Store 2`] = `
+<div
+  class="col-5"
+>
+  <form
+    class="form-inline"
+  >
+    <div
+      class="form-group mx-3"
+    >
+      <input
+        name="text"
+        required=""
+        type="text"
+        value="na-na"
+      />
+    </div>
+    <button
+      class="btn btn-primary btn-sm"
+      type="submit"
+    >
+      Add
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Store 3`] = `
+<div
+  class="col-5"
+>
+  <form
+    class="form-inline"
+  >
+    <div
+      class="form-group mx-3"
+    >
+      <input
+        name="text"
+        required=""
+        type="text"
+        value=""
+      />
+    </div>
+    <button
+      class="btn btn-primary btn-sm"
+      type="submit"
+    >
+      Add
+    </button>
+  </form>
+  <div
+    class="mt-3"
+  >
+    <ul
+      class="list-group"
+    >
+      <li
+        class="list-group-item d-flex justify-content-end"
+      >
+        <button
+          class="btn border-0 p-0 app-toggle-state mr-3"
+        >
+          -
+        </button>
+        <div
+          class="mr-auto"
+        >
+          na-na
+        </div>
+        <button
+          class="btn border-0 p-0 app-remove-task"
+        >
+          x
+        </button>
+      </li>
+    </ul>
+    <div
+      class="col-8 mt-3 d-flex justify-content-around"
+    >
+      all
+      <button
+        class="btn border-0 p-0 app-filter-active"
+      >
+        active
+      </button>
+      <button
+        class="btn border-0 p-0 app-filter-finished"
+      >
+        finished
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Store 4`] = `
+<div
+  class="col-5"
+>
+  <form
+    class="form-inline"
+  >
+    <div
+      class="form-group mx-3"
+    >
+      <input
+        name="text"
+        required=""
+        type="text"
+        value="another task"
+      />
+    </div>
+    <button
+      class="btn btn-primary btn-sm"
+      type="submit"
+    >
+      Add
+    </button>
+  </form>
+  <div
+    class="mt-3"
+  >
+    <ul
+      class="list-group"
+    >
+      <li
+        class="list-group-item d-flex justify-content-end"
+      >
+        <button
+          class="btn border-0 p-0 app-toggle-state mr-3"
+        >
+          -
+        </button>
+        <div
+          class="mr-auto"
+        >
+          na-na
+        </div>
+        <button
+          class="btn border-0 p-0 app-remove-task"
+        >
+          x
+        </button>
+      </li>
+    </ul>
+    <div
+      class="col-8 mt-3 d-flex justify-content-around"
+    >
+      all
+      <button
+        class="btn border-0 p-0 app-filter-active"
+      >
+        active
+      </button>
+      <button
+        class="btn border-0 p-0 app-filter-finished"
+      >
+        finished
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Store 5`] = `
+<div
+  class="col-5"
+>
+  <form
+    class="form-inline"
+  >
+    <div
+      class="form-group mx-3"
+    >
+      <input
+        name="text"
+        required=""
+        type="text"
+        value=""
+      />
+    </div>
+    <button
+      class="btn btn-primary btn-sm"
+      type="submit"
+    >
+      Add
+    </button>
+  </form>
+  <div
+    class="mt-3"
+  >
+    <ul
+      class="list-group"
+    >
+      <li
+        class="list-group-item d-flex justify-content-end"
+      >
+        <button
+          class="btn border-0 p-0 app-toggle-state mr-3"
+        >
+          -
+        </button>
+        <div
+          class="mr-auto"
+        >
+          na-na
+        </div>
+        <button
+          class="btn border-0 p-0 app-remove-task"
+        >
+          x
+        </button>
+      </li>
+      <li
+        class="list-group-item d-flex justify-content-end"
+      >
+        <button
+          class="btn border-0 p-0 app-toggle-state mr-3"
+        >
+          -
+        </button>
+        <div
+          class="mr-auto"
+        >
+          another task
+        </div>
+        <button
+          class="btn border-0 p-0 app-remove-task"
+        >
+          x
+        </button>
+      </li>
+    </ul>
+    <div
+      class="col-8 mt-3 d-flex justify-content-around"
+    >
+      all
+      <button
+        class="btn border-0 p-0 app-filter-active"
+      >
+        active
+      </button>
+      <button
+        class="btn border-0 p-0 app-filter-finished"
+      >
+        finished
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Store 6`] = `
+<div
+  class="col-5"
+>
+  <form
+    class="form-inline"
+  >
+    <div
+      class="form-group mx-3"
+    >
+      <input
+        name="text"
+        required=""
+        type="text"
+        value=""
+      />
+    </div>
+    <button
+      class="btn btn-primary btn-sm"
+      type="submit"
+    >
+      Add
+    </button>
+  </form>
+  <div
+    class="mt-3"
+  >
+    <ul
+      class="list-group"
+    >
+      <li
+        class="list-group-item d-flex justify-content-end"
+      >
+        <button
+          class="btn border-0 p-0 app-toggle-state mr-3"
+        >
+          -
+        </button>
+        <div
+          class="mr-auto"
+        >
+          <s>
+            na-na
+          </s>
+        </div>
+        <button
+          class="btn border-0 p-0 app-remove-task"
+        >
+          x
+        </button>
+      </li>
+      <li
+        class="list-group-item d-flex justify-content-end"
+      >
+        <button
+          class="btn border-0 p-0 app-toggle-state mr-3"
+        >
+          -
+        </button>
+        <div
+          class="mr-auto"
+        >
+          another task
+        </div>
+        <button
+          class="btn border-0 p-0 app-remove-task"
+        >
+          x
+        </button>
+      </li>
+    </ul>
+    <div
+      class="col-8 mt-3 d-flex justify-content-around"
+    >
+      all
+      <button
+        class="btn border-0 p-0 app-filter-active"
+      >
+        active
+      </button>
+      <button
+        class="btn border-0 p-0 app-filter-finished"
+      >
+        finished
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Store 7`] = `
+<div
+  class="col-5"
+>
+  <form
+    class="form-inline"
+  >
+    <div
+      class="form-group mx-3"
+    >
+      <input
+        name="text"
+        required=""
+        type="text"
+        value=""
+      />
+    </div>
+    <button
+      class="btn btn-primary btn-sm"
+      type="submit"
+    >
+      Add
+    </button>
+  </form>
+  <div
+    class="mt-3"
+  >
+    <ul
+      class="list-group"
+    >
+      <li
+        class="list-group-item d-flex justify-content-end"
+      >
+        <button
+          class="btn border-0 p-0 app-toggle-state mr-3"
+        >
+          -
+        </button>
+        <div
+          class="mr-auto"
+        >
+          another task
+        </div>
+        <button
+          class="btn border-0 p-0 app-remove-task"
+        >
+          x
+        </button>
+      </li>
+    </ul>
+    <div
+      class="col-8 mt-3 d-flex justify-content-around"
+    >
+      <button
+        class="btn border-0 p-0 app-filter-all"
+      >
+        all
+      </button>
+      active
+      <button
+        class="btn border-0 p-0 app-filter-finished"
+      >
+        finished
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Store 8`] = `
+<div
+  class="col-5"
+>
+  <form
+    class="form-inline"
+  >
+    <div
+      class="form-group mx-3"
+    >
+      <input
+        name="text"
+        required=""
+        type="text"
+        value=""
+      />
+    </div>
+    <button
+      class="btn btn-primary btn-sm"
+      type="submit"
+    >
+      Add
+    </button>
+  </form>
+  <div
+    class="mt-3"
+  >
+    <ul
+      class="list-group"
+    >
+      <li
+        class="list-group-item d-flex justify-content-end"
+      >
+        <button
+          class="btn border-0 p-0 app-toggle-state mr-3"
+        >
+          -
+        </button>
+        <div
+          class="mr-auto"
+        >
+          <s>
+            na-na
+          </s>
+        </div>
+        <button
+          class="btn border-0 p-0 app-remove-task"
+        >
+          x
+        </button>
+      </li>
+    </ul>
+    <div
+      class="col-8 mt-3 d-flex justify-content-around"
+    >
+      <button
+        class="btn border-0 p-0 app-filter-all"
+      >
+        all
+      </button>
+      <button
+        class="btn border-0 p-0 app-filter-active"
+      >
+        active
+      </button>
+      finished
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Store 9`] = `
+<div
+  class="col-5"
+>
+  <form
+    class="form-inline"
+  >
+    <div
+      class="form-group mx-3"
+    >
+      <input
+        name="text"
+        required=""
+        type="text"
+        value=""
+      />
+    </div>
+    <button
+      class="btn btn-primary btn-sm"
+      type="submit"
+    >
+      Add
+    </button>
+  </form>
+  <div
+    class="mt-3"
+  >
+    <ul
+      class="list-group"
+    >
+      <li
+        class="list-group-item d-flex justify-content-end"
+      >
+        <button
+          class="btn border-0 p-0 app-toggle-state mr-3"
+        >
+          -
+        </button>
+        <div
+          class="mr-auto"
+        >
+          <s>
+            na-na
+          </s>
+        </div>
+        <button
+          class="btn border-0 p-0 app-remove-task"
+        >
+          x
+        </button>
+      </li>
+      <li
+        class="list-group-item d-flex justify-content-end"
+      >
+        <button
+          class="btn border-0 p-0 app-toggle-state mr-3"
+        >
+          -
+        </button>
+        <div
+          class="mr-auto"
+        >
+          another task
+        </div>
+        <button
+          class="btn border-0 p-0 app-remove-task"
+        >
+          x
+        </button>
+      </li>
+    </ul>
+    <div
+      class="col-8 mt-3 d-flex justify-content-around"
+    >
+      all
+      <button
+        class="btn border-0 p-0 app-filter-active"
+      >
+        active
+      </button>
+      <button
+        class="btn border-0 p-0 app-filter-finished"
+      >
+        finished
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Store 10`] = `
+<div
+  class="col-5"
+>
+  <form
+    class="form-inline"
+  >
+    <div
+      class="form-group mx-3"
+    >
+      <input
+        name="text"
+        required=""
+        type="text"
+        value=""
+      />
+    </div>
+    <button
+      class="btn btn-primary btn-sm"
+      type="submit"
+    >
+      Add
+    </button>
+  </form>
+  <div
+    class="mt-3"
+  >
+    <ul
+      class="list-group"
+    >
+      <li
+        class="list-group-item d-flex justify-content-end"
+      >
+        <button
+          class="btn border-0 p-0 app-toggle-state mr-3"
+        >
+          -
+        </button>
+        <div
+          class="mr-auto"
+        >
+          <s>
+            na-na
+          </s>
+        </div>
+        <button
+          class="btn border-0 p-0 app-remove-task"
+        >
+          x
+        </button>
+      </li>
+    </ul>
+    <div
+      class="col-8 mt-3 d-flex justify-content-around"
+    >
+      all
+      <button
+        class="btn border-0 p-0 app-filter-active"
+      >
+        active
+      </button>
+      <button
+        class="btn border-0 p-0 app-filter-finished"
+      >
+        finished
+      </button>
+    </div>
+  </div>
+</div>
+`;
